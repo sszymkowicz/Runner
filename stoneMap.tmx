@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="5" height="10" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="starwars" tilewidth="64" tileheight="64" tilecount="28">
+  <image source="C:/Program Files (x86)/Tiled/examples/starwars.png" width="448" height="256"/>
+  <tile id="1">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="Blocked" value="False"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="Blocked" value="False"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="Blocked" value="False"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="Blocked" value="False"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="Blocked" value="True"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Warstwa Kafelków 1" width="5" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACxNgYGAQRMJCQCwOxBJIWBKImYCYGQmzADEnEHMhYW4gFhgg8wAwzXTZyAAAAA==
+  </data>
+ </layer>
+</map>

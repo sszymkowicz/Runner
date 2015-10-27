@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<players>
+    <player name="Yoda">
+        <highscore>yong</highscore>
+    </player>
+    <player name="ObiWan">
+        <highscore>low</highscore>
+    </player>
+</players>
